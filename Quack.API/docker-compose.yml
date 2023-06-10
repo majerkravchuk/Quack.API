@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  postgres:
+    container_name: quack-postgres
+    image: postgres:14-alpine
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: quack
+      POSTGRES_PASSWORD: password
+    volumes:
+      - quack:/var/lib/postgresql/data
+
+volumes:
+  quack:
+    name: quack

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quack.API", "Quack.API\Quack.API.csproj", "{5F803AC8-B8B2-4C8F-8AB6-C3BC5C5DE99C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quack.API", "Quack.API\Quack.API.csproj", "{BECA13EA-CEA2-4CA7-9BE3-62B82DCE613B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5F803AC8-B8B2-4C8F-8AB6-C3BC5C5DE99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F803AC8-B8B2-4C8F-8AB6-C3BC5C5DE99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F803AC8-B8B2-4C8F-8AB6-C3BC5C5DE99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F803AC8-B8B2-4C8F-8AB6-C3BC5C5DE99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECA13EA-CEA2-4CA7-9BE3-62B82DCE613B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECA13EA-CEA2-4CA7-9BE3-62B82DCE613B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECA13EA-CEA2-4CA7-9BE3-62B82DCE613B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECA13EA-CEA2-4CA7-9BE3-62B82DCE613B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
